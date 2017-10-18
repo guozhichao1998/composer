@@ -1,0 +1,18 @@
+{
+    "name": "zhangjingjing/hello",
+    "description": "example",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiongahuda",
+            "email": "2275106943@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
+}
